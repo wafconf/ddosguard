@@ -31,5 +31,5 @@ services:
             # uncomment if you want to change source code
             #- ./lua/ddosguard:/usr/local/openresty/lualib/ddosguard
         ports:
-            - "80:80"
+            - "89:80"
 
